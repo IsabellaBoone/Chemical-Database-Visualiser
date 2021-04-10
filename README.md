@@ -1,1 +1,1 @@
-Chemical Database Visualiser
+Chemical Database Visualizer
